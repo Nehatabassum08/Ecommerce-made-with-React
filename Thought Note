@@ -1,0 +1,5 @@
+I have successfully built the home page for React e-commerce website. 
+As mentioned in the problem statement I have break down the page into reusable components (Header.js, Footer.js, HomeCover.js, Slider.js) that promotes maintainability and code reuse. 
+For a styling approach, separated styles using local CSS files (Header.css, Footer.css, Home.css) which makes it easier to manage styles for individual components.
+Stored all images in a folder (src/images/..)
+Installed all the necessary fontawesome packages and imported accordingly
